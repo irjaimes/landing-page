@@ -39,5 +39,5 @@ None
 
 For any questions, please feel free to contact me.
 
-- Github Username: [irjaimes](https://github.com/irjaimes/delivery-status-page)
+- Github Username: [irjaimes](https://github.com/irjaimes/landing-page)
 - Email : irjaimes@outlook.com
